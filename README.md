@@ -8,13 +8,13 @@ I do not feel it is necessary to do single one, as there is a fair amount of rep
 The purpose is to both document my own experience in learning Python, as well as to provide a reference for someone else who is learning.
 If you find mistakes or have suggestions, or would simply like to discuss Python, please contact me at weiyun(dot)lu(at)gmail(dot)com.
 
-The chapters and material covered in this book are as follows.
-Chapter 1 - Computing with formulas, 
-Chapter 2 - Loops and lists, 
-Chapter 3 - Functions and branching, 
-Chapter 4 - User input and error handling, 
-Chapter 5 - Array computing and curve plotting, 
-Chapter 6 - Dictionaries and strings, 
-Chapter 7 - Introduction to classes, 
-Chapter 8 - Random numbers and simple games (to be done), 
+The chapters and material covered in this book are as follows.  
+Chapter 1 - Computing with formulas  
+Chapter 2 - Loops and lists  
+Chapter 3 - Functions and branching   
+Chapter 4 - User input and error handling  
+Chapter 5 - Array computing and curve plotting  
+Chapter 6 - Dictionaries and strings  
+Chapter 7 - Introduction to classes  
+Chapter 8 - Random numbers and simple games (to be done)  
 Chapter 9 - Object-oriented programming
