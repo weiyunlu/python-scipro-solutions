@@ -13,5 +13,5 @@ Chapter 4 - User input and error handling
 Chapter 5 - Array computing and curve plotting  
 Chapter 6 - Dictionaries and strings  
 Chapter 7 - Introduction to classes  
-Chapter 8 - Random numbers and simple games (to be done)  
+Chapter 8 - Random numbers and simple games 
 Chapter 9 - Object-oriented programming
